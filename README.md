@@ -1,3 +1,4 @@
+About Me
 - 👋 Hi, I’m AJITH SS
 - 👀 Innovative Trainee – Blockchain Intern
 - 🌱 Motivated and dedicated individual seeking an opportunity in Full-Stack Development.
