@@ -4,7 +4,9 @@
 - 🎓I have done B.Tech Degree in Information Technology.
 - 📫 How to reach me ...https://www.linkedin.com/in/ajith-ss-8941b216a/
 - 😄 Pronouns: ... He/Him
+- 
   Technical Skills:
+  
 
 HTML, CSS, PYTHON-Basics
 SOFT SKILLS
