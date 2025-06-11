@@ -1,4 +1,4 @@
-About Me
+**About Me**
 - 👋 Hi, I’m AJITH SS
 - 👀 Innovative Trainee – Blockchain Intern
 - 🌱 Motivated and dedicated individual seeking an opportunity in Full-Stack Development.
@@ -6,11 +6,11 @@ About Me
 - 📫 How to reach me ...https://www.linkedin.com/in/ajith-ss-8941b216a/
 - 😄 Pronouns: ... He/Him
    
-Technical Skills:
+**Technical Skills:**
 
 HTML, CSS, PYTHON-Basics
 
-Soft Skills:
+**Soft Skills:**
 
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
