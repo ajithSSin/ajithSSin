@@ -7,15 +7,18 @@
 - 😄 Pronouns: ... He/Him
    
 **Technical Skills:**
-
-HTML, CSS, PYTHON-Basics
+file:///home/ajith/Downloads/html_logo.png
+file:///home/ajith/Downloads/css_logo.png
+![python](https://github.com/user-attachments/assets/9887e0f3-42d7-449e-80da-324555617003)
 
 
 **Soft Skills:**
 
+
+
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
-![python](https://github.com/user-attachments/assets/9887e0f3-42d7-449e-80da-324555617003)
+
 
 
 
