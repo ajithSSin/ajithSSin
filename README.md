@@ -15,7 +15,7 @@ HTML, CSS, PYTHON-Basics
 
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
-
+"https://github.com/ajithSSin/images/blob/main/python.png?raw=true"
 <!---
 ajithSSin/ajithSSin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
