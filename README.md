@@ -9,7 +9,7 @@
 **Technical Skills:**
 
 HTML, CSS, PYTHON-Basics
-https://github.com/ajithSSin/ajithSSin/blob/main/python.png
+
 **Soft Skills:**
 
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
