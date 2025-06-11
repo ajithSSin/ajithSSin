@@ -13,6 +13,9 @@
 ![python](https://github.com/user-attachments/assets/9887e0f3-42d7-449e-80da-324555617003)
 
 
+
+
+
 **Soft Skills:**
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
