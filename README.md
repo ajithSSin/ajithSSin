@@ -5,10 +5,9 @@
 - 📫 How to reach me ...https://www.linkedin.com/in/ajith-ss-8941b216a/
 - 😄 Pronouns: ... He/Him
 - 
-  Technical Skills:
-  
-
+Technical Skills:
 HTML, CSS, PYTHON-Basics
+
 SOFT SKILLS
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
