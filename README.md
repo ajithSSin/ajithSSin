@@ -9,6 +9,8 @@ About Me
 Technical Skills:
 
 HTML, CSS, PYTHON-Basics
+![image](https://github.com/user-attachments/assets/6fcd6d9d-0c34-42e2-88f8-8a6fa9ae88f0)
+
 
 SOFT SKILLS
 
