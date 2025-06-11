@@ -6,9 +6,11 @@
 - 😄 Pronouns: ... He/Him
 - 
 Technical Skills:
+
 HTML, CSS, PYTHON-Basics
 
 SOFT SKILLS
+
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
 
