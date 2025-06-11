@@ -9,6 +9,7 @@
 **Technical Skills:**
 
 HTML, CSS, PYTHON-Basics
+https://github.com/ajithSSin/ajithSSin.github.io/blob/main/python.png?raw=true
 
 **Soft Skills:**
 
