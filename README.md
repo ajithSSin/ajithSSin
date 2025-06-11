@@ -14,6 +14,7 @@ HTML, CSS, PYTHON-Basics
 **Soft Skills:**
 
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
+python.png
 
 <!---
 ajithSSin/ajithSSin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
