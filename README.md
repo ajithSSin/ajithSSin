@@ -7,13 +7,6 @@
 - 😄 Pronouns: ... He/Him
    
 **Technical Skills:**
-
-
-
-![python](https://github.com/user-attachments/assets/9887e0f3-42d7-449e-80da-324555617003)
-
-
-![Alt text](images/html_logo.png)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 
 
