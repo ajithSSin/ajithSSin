@@ -13,6 +13,10 @@
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.x-363636?logo=solidity)
 ![Hardhat](https://img.shields.io/badge/Hardhat-Framework-yellow?logo=ethereum)
 
+🌐 Backend
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-Framework-black?logo=express)
+
 
 **Soft Skills:**
 Communication, Teamwork, Problem-solving, Adaptability, Leadership
