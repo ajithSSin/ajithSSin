@@ -12,21 +12,25 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 
 🧱 Blockchain / Smart Contracts
+
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.x-363636?logo=solidity)
 ![Hardhat](https://img.shields.io/badge/Hardhat-Framework-yellow?logo=ethereum)
 
 🔐 Web3 / Wallet
+
 ![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-F6851B?logo=metamask)
 
 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite)
 
 🌐 Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-Framework-black?logo=express)
 
-🗄️ Database (if used)
+🗄️ Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)
 
 
