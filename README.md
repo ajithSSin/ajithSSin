@@ -10,7 +10,7 @@
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![html](https://img.shields.io/badge/JAVASCRIPT-javascript?&style=for-the-badge&logo=javascript&logoColor=white)
+![html](https://img.shields.io/badge/JAVASCRIPT-javascript?&style=for-the-badge&logo=javascript&logoColor=#f5431b)
 
 🧱 Blockchain / Smart Contracts
 
